@@ -1,8 +1,3 @@
-// Nome dos Integrantes:
-// Caio Alexandre V.B. de Andrade, TIA - 32229690.
-// Diego Oliveira Aluizio, TIA - 32247591.
-// Nicolas Fernandes Melnik, TIA - 32241720.
-
 // Referencias:
 // Consulta do Lab1c, disponível no moodle da disciplina.
 // Consulta do código realizado semestre passado para Apl1.
